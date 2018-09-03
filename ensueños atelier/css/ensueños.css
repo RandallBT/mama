@@ -1,0 +1,25 @@
+.mailto{
+  font-family:"Times new roman"
+}
+
+p, h2, nav {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:90%;
+  font-family: Advert, Andres, "Calibri light", "adobe arabic", "Times New Roman", Arial;
+}
+
+.center1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:30%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:90%;
+}
